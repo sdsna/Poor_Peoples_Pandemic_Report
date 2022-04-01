@@ -15,7 +15,7 @@ For an interactive data website, see https://storymaps.arcgis.com/stories/fee736
 For data from our other projects, see https://github.com/sdsna.
 
 ## Data
-Dataset formatted as Stata dta: (https://github.com/sdsna/Poor_Peoples_Pandemic_Report/renamed_vars.dta)
+Dataset formatted as Stata dta: (https://github.com/sdsna/Poor_Peoples_Pandemic_Report/poor_people_pandemic_data.dta)
 
 ## Codebook
 Cross-sectional data available in [Excel](https://github.com/sdsna/Poor_Peoples_Pandemic_Report/PPC Structured Lit Review.xlsx) format.
