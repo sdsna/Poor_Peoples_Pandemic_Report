@@ -1,4 +1,4 @@
-# Poor_Peoples_Pandemic_Report
+# Poor Peoples Pandemic Report
 Data used to create the Poor People's Pandemic Report
 
 # A Poor People's Pandemic Report 2022  
@@ -12,16 +12,17 @@ For more information on this report, see https://www.poorpeoplescampaign.org/pan
 
 For an interactive data website, see https://storymaps.arcgis.com/stories/fee7360f2a5242d5b62a8234da08dcd0.
 
-For data from our other projects, see https://github.com/sdsna.
+For data from our other projects, see https://github.com/sdsna and https://www.sdgindex.org/.
 
 ## Data
-Dataset formatted as Stata dta: (https://github.com/sdsna/Poor_Peoples_Pandemic_Report/poor_people_pandemic_data.dta)
+Data on COVID-19 deaths was from Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. (2020). COVID-19 Data Repository [Data set]. Johns Hopkins University. Retrieved from https://github.com/CSSEGISandData/COVID-19/blob/master/README.md in February, 2022.
 
-## Codebook
-Cross-sectional data available in [Excel](https://github.com/sdsna/Poor_Peoples_Pandemic_Report/PPC Structured Lit Review.xlsx) format.
+Demographic data was taken from American Community Survey 2019 5-year estimates in March, 2022, https://www.census.gov/programs-surveys/acs.
+
+Data on vaccination rates was taken from CDC County Vaccination Data, downloaded in March, 2022, https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh.
 
 ## Methodology
-Please, see our methodology here: 
+Please, see our methodology here: https://www.poorpeoplescampaign.org/pandemic-report/methodology/
 
 ## Credits
 This report was the joint effort of the UN Sustainable Development Solutions Network (SDSN), the Poor People’s Campaign: A National Call for Moral Revival, Repairers of the Breach, the Kairos Center for Religions, Rights and Social Justice, and Howard University School of Education. Authors include Jeffrey Sachs (SDSN), Rev. Dr. William Barber, II (Poor People’s Campaign and Repairers of the Breach), Rev. Dr. Liz Theoharis (Poor People’s Campaign and the Kairos Center), Alainna Lynch (SDSN), Shailly Gupta Barnes (Poor People’s Campaign and the Kairos Center), Helen Bond (Howard University), Maryam Rabiee (SDSN), Anela Layugan (SDSN) and Laura Nora (SDSN). The authors thank Sarah Patafio, and Gabriel Mayan for their research assistance and the Health Justice Advisory Committee to the Poor People's Campaign for their insights and contributions. Thank you to Sonja Neve (SDSN), Caroline Fox (SDSN) and Tony Eskridge (Kairos Center) for their editorial support. 
@@ -34,7 +35,7 @@ By downloading the data, you hereby agree to all of the terms specified in this 
 ## Endmatter
 Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to usa@unsdsn.org and including information on your publication.
 
-If you have questions, please contact SDSN at <usa@unsdsn.org>.
+If you have questions, please contact SDSN at <info@sdgindex.org>.
 
 The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat.
 
