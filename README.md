@@ -33,8 +33,6 @@ Publication design and layout by Maryam Rabiee and Anela Layugan from SDSNs SDGs
 By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
 
 ## Endmatter
-Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to usa@unsdsn.org and including information on your publication.
-
 If you have questions, please contact SDSN at <info@sdgindex.org>.
 
 The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat.
