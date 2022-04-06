@@ -2,7 +2,7 @@
 Data used to create the Poor People's Pandemic Report
 
 # A Poor People's Pandemic Report 2022  
-##  Mapping the Intersection of Poverty, Race and COVID-19
+##  Mapping the Intersection of Poverty, Race, and COVID-19
 COVID-19 effects on poor communities in the US. 
 
 ## Report Description
