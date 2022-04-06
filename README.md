@@ -24,7 +24,7 @@ Data on vaccination rates was taken from CDC County Vaccination Data, downloaded
 A excel of the data displayed in the dashbaord and used in the report, alongside data definitions can be found here (https://github.com/sdsna/Poor_Peoples_Pandemic_Report/blob/main/pandemic_report_data.xlsx). Please note that the COVID-19 data is updated as of February, 2022 and may no longer reflect website data which is updated daily.
 
 ## Methodology
-Please, see our methodology here: https://github.com/sdsna/Poor_Peoples_Pandemic_Report/blob/main/Poor Peoples Report Methodology.pdf
+Please, see our methodology here: https://github.com/sdsna/Poor_Peoples_Pandemic_Report/blob/main/Poor_Peoples_Report_Methodology.pdf
 
 ## Credits
 This report was the joint effort of the UN Sustainable Development Solutions Network (SDSN), the Poor People’s Campaign: A National Call for Moral Revival, Repairers of the Breach, the Kairos Center for Religions, Rights and Social Justice, and Howard University School of Education. Authors include Jeffrey Sachs (SDSN), Rev. Dr. William Barber, II (Poor People’s Campaign and Repairers of the Breach), Rev. Dr. Liz Theoharis (Poor People’s Campaign and the Kairos Center), Alainna Lynch (SDSN), Shailly Gupta Barnes (Poor People’s Campaign and the Kairos Center), Helen Bond (Howard University), Maryam Rabiee (SDSN), Anela Layugan (SDSN) and Laura Nora (SDSN). The authors thank Sarah Patafio, and Gabriel Mayan for their research assistance and the Health Justice Advisory Committee to the Poor People's Campaign for their insights and contributions. Thank you to Sonja Neve (SDSN), Caroline Fox (SDSN) and Tony Eskridge (Kairos Center) for their editorial support. 
